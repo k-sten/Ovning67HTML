@@ -1,0 +1,30 @@
+﻿body {
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    color: goldenrod;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+iframe {
+    align-content: center;
+}
+
+footer {
+    color: red;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
